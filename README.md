@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chintan38
+- 👋 Hi, I’m Chintan Patel
 - 👀 I’m interested in Website Development, HTML, CSS, Python, Data Science , Machin Learning,Digital Marketing, SEO, SMM and Many More.
 - 🌱 I’m currently learning Machin Learning and Data Science.
 - 💞️ I’m looking to collaborate on New Devloper of ML and Data Science 
